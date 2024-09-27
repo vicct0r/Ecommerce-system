@@ -11,9 +11,9 @@ O principal foco deste projeto é simular um ambiente de trabalho real, onde cad
 Antes de iniciar a implementação, será criado um diagrama detalhado da arquitetura do sistema. Esse diagrama servirá como base para a divisão das responsabilidades entre os integrantes do time. Cada participante será responsável por uma parte específica do projeto, assegurando que todas as funcionalidades sejam desenvolvidas de forma coordenada e eficiente.
 
 **Diagrama (em andamento):**
-![Diagrama Incompleto](./Ecommerce.jpg)
+![Diagrama Incompleto](./diagrama-ecommerce.jpg)
 
-*Aviso: O diagrama acima ainda está em desenvolvimento e foi finalizado até este ponto. A versão completa será atualizada posteriormente.*
+*Aviso: O diagrama acima ainda está em desenvolvimento. A versão completa será atualizada posteriormente.*
 
 Após a distribuição das responsabilidades, o desenvolvimento seguirá os padrões de boas práticas de programação e versionamento, com a utilização de pull requests formais e explicativos. Isso garantirá que o processo de revisão e integração de código seja o mais claro e organizado possível.
 
