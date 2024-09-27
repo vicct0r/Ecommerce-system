@@ -1,4 +1,4 @@
-# Ecommerce Project
+# Ecommerce
 
 Este repositório faz parte de um projeto colaborativo de ecommerce, criado com o objetivo de praticar e reforçar os conceitos essenciais da programação, bem como a colaboração em equipe dentro de um ambiente de desenvolvimento.
 
@@ -9,6 +9,11 @@ O principal foco deste projeto é simular um ambiente de trabalho real, onde cad
 ## Estruturação e Colaboração
 
 Antes de iniciar a implementação, será criado um diagrama detalhado da arquitetura do sistema. Esse diagrama servirá como base para a divisão das responsabilidades entre os integrantes do time. Cada participante será responsável por uma parte específica do projeto, assegurando que todas as funcionalidades sejam desenvolvidas de forma coordenada e eficiente.
+
+**Diagrama (em andamento):**
+![Diagrama Incompleto](./Ecommerce.jpg)
+
+*Aviso: O diagrama acima ainda está em desenvolvimento e foi finalizado até este ponto. A versão completa será atualizada posteriormente.*
 
 Após a distribuição das responsabilidades, o desenvolvimento seguirá os padrões de boas práticas de programação e versionamento, com a utilização de pull requests formais e explicativos. Isso garantirá que o processo de revisão e integração de código seja o mais claro e organizado possível.
 
@@ -27,7 +32,7 @@ Nosso objetivo é concluir o projeto com um sistema funcionando corretamente, se
 
 ## Aviso para Visitantes
 
-⚠️ **Atenção**: Este projeto está **fechado para novos colaboradores**. Atualmente, apenas os membros originais da equipe têm permissão para participar do desenvolvimento. Mas sinta-se à vontade para acompanhar nosso progresso!
+⚠️ **Atenção**: Este projeto está **fechado para novos colaboradores**. Atualmente, apenas os membros originais da equipe têm permissão para participar do desenvolvimento.
 
 ---
 
